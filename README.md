@@ -7,17 +7,17 @@
     <img src="https://img.shields.io/badge/OxideOrg-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   
-  <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
+  <!-- <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  </a> -->
 
   <a href="https://dev.to/oxideorg" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
   
-  <a href="https://github.com/sponsors/fnabinash" target="_blank">
+  <!-- <a href="https://github.com/sponsors/fnabinash" target="_blank">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
-  </a>
+  </a> -->
 </p>
 
 **Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built for developers, by developers. 🚀
@@ -94,7 +94,7 @@ We take security seriously and aim to keep our tools safe for everyone. Please f
 ## 📣 **Get Involved**
 
 **Join the Community!**  
-- **💬 [Discord Server](https://discord.gg/yYZTWsyxwW)** - Connect with the community, join live discussions, and collaborate in real time!
+<!-- - **💬 [Discord Server](https://discord.gg/yYZTWsyxwW)** - Connect with the community, join live discussions, and collaborate in real time! -->
 - **🐦 [Twitter](https://x.com/oxide_org)** - Follow us for updates and announcements.
 - **📚 [Blog](https://dev.to/oxideorg)** - Read about the latest development updates, tutorials, and community spotlights.
 
