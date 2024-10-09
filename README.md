@@ -20,7 +20,7 @@
   </a>
 </p>
 
-**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built by developers, for developers. 🚀
+**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built for developers, by developers. 🚀
 
 ---
 
