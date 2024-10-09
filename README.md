@@ -20,12 +20,12 @@
   </a>
 </p>
 
-**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins to powerful CLI tools, everything we create is free and open-source - built by developers, for developers. 🚀
+**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built by developers, for developers. 🚀
 
 ---
 
 ## 📚 **About Us**
-At Oxide, our goal is to bring innovative ideas to life and build tools that empower the developer community. We focus on creating experiences that make your work seamless, while contributing back to the open-source ecosystem. Our mission is to make developer life easier and more efficient by simplifying workflows and providing tools you’ll love to use.
+At Oxide, our goal is to bring innovative ideas to life and build tools that empower the developer community. We focus on creating experiences that make your work seamless while contributing back to the open-source ecosystem. Our mission is to make developer life easier and more efficient by simplifying workflows and providing tools you’ll love to use.
 
 ---
 
