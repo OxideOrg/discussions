@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_logo_no_bg.png" width="15%"></img></p>
+<p align="center"><img src="images/oxide_logo_no_bg.png" width="15%"></img></p>
 
 <h1 align="center">Welcome to <b>Oxide Org.</b></h1>
 
@@ -24,19 +24,16 @@
 
 ---
 
-## 📚 **About Us**
-At Oxide, our goal is to bring innovative ideas to life and build tools that empower the developer community. We focus on creating experiences that make your work seamless while contributing back to the open-source ecosystem. Our mission is to make developer life easier and more efficient by simplifying workflows and providing tools you’ll love to use.
+## 🚀 **Mission Statement**
+At **Oxide**, we build open-source tools that make developers' lives easier.
 
----
+Our mission is to boost productivity, simplify workflows, and solve everyday challenges in smarter and faster ways. We aim to create a collaborative community where developers can learn, grow, and contribute.
 
-## 🎨 **Our Core Values**
-
-- **Open Collaboration**: Build and grow together.
-- **Developer Empowerment**: Creating tools that help you code faster and smarter.
-- **Continuous Learning**: Encouraging learning and development for all skill levels.
-- **Inclusive Community**: We welcome everyone, from beginner to expert, to participate.
-
----
+All our tools are free and accessible to everyone, empowering developers to provide a whole new experience for building the next big thing.
+### Our tools are built for
+- Easy to use
+- Fast and Reliable
+- Developer-focused
 
 ## 🛠️ **Projects We’re Working On**
 
