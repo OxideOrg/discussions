@@ -40,7 +40,6 @@ All our tools are free and accessible to everyone, empowering developers to prov
 Here's a snapshot of some of our active projects:
 
 - **🔧 Dotman**: Something helpful for Developers. (More details soon.)
-- **📄 Meta CLI**: Disclose after lunch of Dotman.
   
 Check out our [Repositories](https://github.com/orgs/OxideOrg/repositories) to explore all our tools!
 
